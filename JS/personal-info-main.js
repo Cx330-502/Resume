@@ -170,7 +170,7 @@ $(function () {
 
     progress();
     if ($(window).scrollTop() >= $(".page-header").height() - $(".page-header .bg-primary").height()) {
-        $(".page-header .bg-primary").css("cssText", "background-color:rgb(55 65 178)!important");
+        $(".page-header .bg-primary").css("cssText", "background-color:rgba(0,0,0,0.7)!important");
     }
     $(window).scroll(function () {
         h = $(".page-header").height() - $(".page-header .bg-primary").height();

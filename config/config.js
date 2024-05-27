@@ -3,9 +3,9 @@ var config = {
     name: "折松",
     sex: "男",
     age: "21",
-    phone: "不告诉你~",
-    email: "Cx330-502@outlook.com this`s true",
-    address: "背景海淀",
+    phone: "要不还是用邮件联系叭~",
+    email: "Cx330_502@outlook.com",
+    address: "北京海淀",
     qq: "1175963382",
     log: "Cx330-502",
     excpect_work: "Python后端开发",
@@ -84,6 +84,15 @@ var config = {
      */
     portfolio: [
         ["./images/pro-1.png", "http://1.15.234.109:8000/", "个人博客", "这里记录了我的Java后端学习笔记<br>持续更新"],
+        ["./images/pro-1.png", "http://1.15.234.109:8000/", "个人博客", "这里记录了我的Java后端学习笔记<br>持续更新"],
+        ["./images/pro-1.png", "http://1.15.234.109:8000/", "个人博客", "这里记录了我的Java后端学习笔记<br>持续更新"],
+        ["./images/pro-1.png", "http://1.15.234.109:8000/", "个人博客", "这里记录了我的Java后端学习笔记<br>持续更新"],
+        ["./images/pro-1.png", "http://1.15.234.109:8000/", "个人博客", "这里记录了我的Java后端学习笔记<br>持续更新"],
+        ["./images/pro-1.png", "http://1.15.234.109:8000/", "个人博客", "这里记录了我的Java后端学习笔记<br>持续更新"],
+        ["./images/pro-1.png", "http://1.15.234.109:8000/", "个人博客", "这里记录了我的Java后端学习笔记<br>持续更新"],
+        ["./images/pro-1.png", "http://1.15.234.109:8000/", "个人博客", "这里记录了我的Java后端学习笔记<br>持续更新"],
+        ["./images/pro-1.png", "http://1.15.234.109:8000/", "个人博客", "这里记录了我的Java后端学习笔记<br>持续更新"],
+        ["./images/pro-1.png", "http://1.15.234.109:8000/", "个人博客", "这里记录了我的Java后端学习笔记<br>持续更新"],
         ["./images/pro-2.png", "https://github.com/happysnaker/Gobang", "智能人机对战五子棋", "采用C++编写的智能五子棋人机对战<br>2021/7/23"],
         ["https://pic3.zhimg.com/80/v2-d9766956d5c85c2780e4c5008fd946ca_1440w.jpg", "https://github.com/happysnaker/StudentsManageSystem", "学生管理系统", "C语言+AVL树+多重双向表实现"]
     ],
@@ -146,9 +155,9 @@ var config = {
     url: [
         //背景图、头像、作品展示背景、其他经历背景
         "./images/bg-index.jpg",
-        "./images/2.jpg",
-        "./images/work-bk.png",
-        "./images/4.jpg"
+        "./images/avatar.jpg",
+        "./images/bg-work.jpg",
+        "./images/bg-others.jpg"
     ]
 
 }

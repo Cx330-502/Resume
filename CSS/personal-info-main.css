@@ -58,7 +58,8 @@ html {
 }
 
 .page-header .navbar .navbar-collapse li:hover {
-    background: rgb(26, 145, 65);
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
     transition: 0.55s;
     z-index: 2;
 }
@@ -71,10 +72,9 @@ html {
 
 .profile-page .page-header {
     position: relative;
-    min-height: 650px;
-    max-height: 1024px;
+    /*max-height: 1024px;*/
     width: 100%;
-    height: 100vh;
+    min-height: 100vh;
     background-image: url(../images/bg-index.jpg);
     background-position: center center !important;
     background-size: cover !important;
@@ -193,7 +193,7 @@ html {
 
 
 .section-title {
-    padding-top: 18vh;
+    padding-top: 15vh;
     margin-bottom: 7vh;
     color: white;
     font-weight: 500 !important;
@@ -201,18 +201,19 @@ html {
 
 .card {
     border: 0;
-    border-radius: 0.1875rem;
     display: inline-block;
     position: relative;
     overflow: hidden;
     width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
     margin-bottom: 20px;
-    -webkit-box-shadow: -1px 5px 25px 0px rgb(0 0 0 / 20%);
-    box-shadow: -1px 5px 25px 0px rgb(0 0 0 / 20%);
+    -webkit-box-shadow: 0 0  60px 0 rgb(255 255 255 / 50%);
+    box-shadow: 0 0  60px 0 rgb(255 255 255 / 50%);
     background-color: antiquewhite;
     -webkit-transition: all .3s ease-out;
     transition: all .3s ease-out;
-    border-radius: 1%;
+    border-radius: 15px;
     text-align: left;
 }
 
@@ -387,13 +388,12 @@ html {
 }
 
 .portfolio-section {
-    background: url(https://pic4.zhimg.com/80/v2-1acf703173c88099a01ead4aa66c0633_1440w.jpg) no-repeat center top;
-    height: 100vh;
+    background: no-repeat center top;
+    min-height: 100vh;
     padding-top: 50px;
     text-align: center !important;
     background-attachment: relative !important;
     background-position: center center !important;
-    min-height: 800px;
     width: 100%;
     background-size: 100%;
     background-size: cover;
@@ -409,7 +409,7 @@ html {
 
 .portfolio-section .row {
     bottom: 20px;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
 }
 
 
@@ -615,9 +615,8 @@ html {
 }
 
 .others-section {
-    background: url(https://pic1.zhimg.com/v2-956295fc660aee9127c9ecb4b9b32090_b.jpg);
     background-repeat: no-repeat !important;
-    margin-top: 30px !important;
+    /*margin-top: 30px !important;*/
     padding-top: 40px !important;
     text-align: center !important;
     background-attachment: relative !important;
@@ -919,9 +918,9 @@ html {
 }
 
 .footer {
-    margin-top: 5px;
+    /*margin-top: 5px;*/
     color: #f8f9fab0;
-    top: 20px;
+    /*top: 20px;*/
     position: relative;
     bottom: 0;
     margin-bottom: 0;
@@ -930,15 +929,28 @@ html {
 
 
 .about-section{
-    height: 100vh;
+    min-height: 100vh;
     position: relative;
     background-image: url(../images/bg-about.jpg);
     background-size: cover;
 }
 
 .skill-section{
-    height: 100vh;
+    min-height: 100vh;
     position: relative;
     background-image: url(../images/bg-skill.jpg);
+    background-size: cover;
+}
+
+.experience-section{
+    min-height: 100vh;
+    position: relative;
+    background-image: url(../images/bg-experience.jpg);
+    background-size: cover;
+}
+.contact-section{
+    min-height: 100vh;
+    position: relative;
+    background-image: url(../images/bg-contact.jpg);
     background-size: cover;
 }
