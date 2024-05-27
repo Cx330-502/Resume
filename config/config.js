@@ -57,7 +57,7 @@ var config = {
         ["Java", 75, "blue"],
         ["C++", 83, "green"],
         ["SQL", 70, "#1abc9c"],
-        ["HTML5", 67, "rgba(0,0,0)"],
+        ["HTML5", 67, "rgba(255,255,255)"],
         ["CSS3", 60, "yellow"],
         ["JavaScript", 70, "pink"],
         ["Vue", 60, "orange"]
