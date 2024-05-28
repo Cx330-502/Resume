@@ -161,7 +161,7 @@ var config = {
         //背景图、头像、作品展示背景、其他经历背景
         "https://image.cx330-502.top/i/2024/05/28/6655ce86d066a.jpg",
         "https://image.cx330-502.top/i/2024/05/28/6655ce78c95aa.jpg",
-        "https://image.cx330-502.top/i/2024/05/28/6655ce78c95aa.jpg",
+        "https://image.cx330-502.top/i/2024/05/28/6655ce7a44243.jpg",
         "https://image.cx330-502.top/i/2024/05/28/6655ce7c173ef.jpg"
     ]
 
