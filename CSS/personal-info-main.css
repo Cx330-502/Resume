@@ -75,7 +75,7 @@ html {
     /*max-height: 1024px;*/
     width: 100%;
     min-height: 100vh;
-    background-image: url(../images/bg-index.jpg);
+    background-image: url("https://image.cx330-502.top/i/2024/05/28/6655ce86d066a.jpg");
     background-position: center center !important;
     background-size: cover !important;
 }
@@ -932,27 +932,27 @@ html {
 .about-section{
     min-height: 100vh;
     position: relative;
-    background-image: url(../images/bg-about.jpg);
+    background-image: url("https://image.cx330-502.top/i/2024/05/28/6655ce7bb2510.jpg");
     background-size: cover;
 }
 
 .skill-section{
     min-height: 100vh;
     position: relative;
-    background-image: url(../images/bg-skill.jpg);
+    background-image: url("https://image.cx330-502.top/i/2024/05/28/6655ce7b66a48.jpg");
     background-size: cover;
 }
 
 .experience-section{
     min-height: 100vh;
     position: relative;
-    background-image: url(../images/bg-experience.jpg);
+    background-image: url("https://image.cx330-502.top/i/2024/05/28/6655ce79102ef.jpg");
     background-size: cover;
 }
 .contact-section{
     min-height: 100vh;
     position: relative;
-    background-image: url(../images/bg-contact.jpg);
+    background-image: url("https://image.cx330-502.top/i/2024/05/28/6655ce7974194.jpg");
     background-size: cover;
 }
 

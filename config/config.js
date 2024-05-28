@@ -88,15 +88,15 @@ var config = {
      * 通过查看实际效果以调整字题长度
      */
     portfolio: [
-        ["./images/portfolio/home.png", "https://www.cx330-502.top/", "个人主页", ""],
-        ["./images/portfolio/Ace.png", "https://magic-ace.cx330-502.top/", "社团主页", "这是我为社团制作的主页"],
-        ["./images/portfolio/blog.png", "https://blog.cx330-502.top/", "个人博客", "记录了我的一些学习经历和Bug解决方案"],
-        ["./images/portfolio/blackroom.png", "https://blackroom.cx330-502.top/", "小黑屋", "部署了一个文字小游戏<br>(不是我编写的)"],
-        ["./images/portfolio/knGraph.png", "", "知识图谱自动构建", "独立完成大部分前端"],
-        ["./images/portfolio/questionnaire.png", "https://github.com/Cx330-502/soul-qn-django", "问卷生成与分享工具", "负责Django后端"],
-        ["./images/portfolio/AgileLink.png", "https://github.com/Cx330-502/AgileLink_Django_public", "软工团队协作与管理平台", "websocket技术实现多方面实时协同工作"],
-        ["./images/portfolio/AgileScholar.png", "https://github.com/Cx330-502/Qingjin-Academic-Django1", "学术成果分享系统", "完成elasticsearch查询脚本及后端所有接口"],
-        ["./images/portfolio/LLVM.png", "https://github.com/Cx330-502/llvm_compiler", "LLVM编译器设计", "C++完成了对C语言文法的子集完成从词法分析、语法分析、错误处理到目标代码生成等编译过程的编译器的实现，生成LLVM目标代码"],
+        ["https://image.cx330-502.top/i/2024/05/28/6655ce7716f96.png", "https://www.cx330-502.top/", "个人主页", ""],
+        ["https://image.cx330-502.top/i/2024/05/28/6655ce735a382.png", "https://magic-ace.cx330-502.top/", "社团主页", "这是我为社团制作的主页"],
+        ["https://image.cx330-502.top/i/2024/05/28/6655ce77f219f.png", "https://blog.cx330-502.top/", "个人博客", "记录了我的一些学习经历和Bug解决方案"],
+        ["https://image.cx330-502.top/i/2024/05/28/6655ce72a4bc6.png", "https://blackroom.cx330-502.top/", "小黑屋", "部署了一个文字小游戏<br>(不是我编写的)"],
+        ["https://image.cx330-502.top/i/2024/05/28/6655ce762ce9e.png", "", "知识图谱自动构建", "独立完成大部分前端"],
+        ["https://image.cx330-502.top/i/2024/05/28/6655ce7469f47.png", "https://github.com/Cx330-502/soul-qn-django", "问卷生成与分享工具", "负责Django后端"],
+        ["https://image.cx330-502.top/i/2024/05/28/6655ce73d5a88.png", "https://github.com/Cx330-502/AgileLink_Django_public", "软工团队协作与管理平台", "websocket技术实现多方面实时协同工作"],
+        ["https://image.cx330-502.top/i/2024/05/28/6655ce75574d6.png", "https://github.com/Cx330-502/Qingjin-Academic-Django1", "学术成果分享系统", "完成elasticsearch查询脚本及后端所有接口"],
+        ["https://image.cx330-502.top/i/2024/05/28/6655ce74d45b5.png", "https://github.com/Cx330-502/llvm_compiler", "LLVM编译器设计", "C++完成了对C语言文法的子集完成从词法分析、语法分析、错误处理到目标代码生成等编译过程的编译器的实现，生成LLVM目标代码"],
     ],
 
 
@@ -159,10 +159,10 @@ var config = {
     //这是一些图片链接，建议您仅更改第二个头像图片
     url: [
         //背景图、头像、作品展示背景、其他经历背景
-        "./images/bg-index.jpg",
-        "./images/avatar.jpg",
-        "./images/bg-work.jpg",
-        "./images/bg-others.jpg"
+        "https://image.cx330-502.top/i/2024/05/28/6655ce86d066a.jpg",
+        "https://image.cx330-502.top/i/2024/05/28/6655ce78c95aa.jpg",
+        "https://image.cx330-502.top/i/2024/05/28/6655ce78c95aa.jpg",
+        "https://image.cx330-502.top/i/2024/05/28/6655ce7c173ef.jpg"
     ]
 
 }
