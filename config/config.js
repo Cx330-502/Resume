@@ -4,7 +4,7 @@ var config = {
     sex: "男",
     age: "21",
     phone: "要不还是用邮件联系叭~",
-    email: "Cx330_502@outlook.com",
+    email: "Cx330_502@163.com",
     address: "北京海淀",
     qq: "1175963382",
     log: "Cx330-502",
